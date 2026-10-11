@@ -1,0 +1,25 @@
+# Nix / direnv
+.direnv/
+result
+
+# .NET
+bin/
+obj/
+*.user
+.vs/
+TestResults/
+
+# Unity
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+*.csproj.user
+
+# エディタ
+.idea/
+.vscode/*
+!.vscode/extensions.json
